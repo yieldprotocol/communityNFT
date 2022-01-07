@@ -1479,7 +1479,7 @@ pragma solidity ^0.8.0;
 
 
 
-contract YPC is ERC721, ERC721Enumerable, Ownable {
+contract Symbol is ERC721, ERC721Enumerable, Ownable {
 
     using Strings for uint256;
 	using SafeMath for uint256;
